@@ -1,0 +1,56 @@
+[
+ {
+   "Player Count": 7,
+   "Townsfolk": 5,
+   "Outsiders": 0,
+   "Mafia": 2
+ },
+ {
+   "Player Count": 8,
+   "Townsfolk": 5,
+   "Outsiders": 1,
+   "Mafia": 2
+ },
+ {
+   "Player Count": 9,
+   "Townsfolk": 5,
+   "Outsiders": 2,
+   "Mafia": 2
+ },
+ {
+   "Player Count": 10,
+   "Townsfolk": 7,
+   "Outsiders": 0,
+   "Mafia": 3
+ },
+ {
+   "Player Count": 11,
+   "Townsfolk": 7,
+   "Outsiders": 1,
+   "Mafia": 3
+ },
+ {
+   "Player Count": 12,
+   "Townsfolk": 7,
+   "Outsiders": 2,
+   "Mafia": 3
+ },
+ {
+   "Player Count": 13,
+   "Townsfolk": 9,
+   "Outsiders": 0,
+   "Mafia": 4
+ },
+ {
+   "Player Count": 14,
+   "Townsfolk": 9,
+   "Outsiders": 1,
+   "Mafia": 4
+ },
+ {
+   "Player Count": 15,
+   "Townsfolk": 9,
+   "Outsiders": 2,
+   "Mafia": 4
+ }
+]

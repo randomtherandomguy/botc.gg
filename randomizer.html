@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BOTC.gg</title>
+</head>
+<body>
+    <div style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); text-align: center">
+        <input
+            type="range"
+            id="player_count_input"
+            name="Player Count"
+            min="7"
+            max="15"
+            value="7"
+            step="1" />
+        <p>Player Count: <output id="player_count_output" for="player_count_input"></output></p>
+        <button id="generate_code_button">Generate Code</button>
+        <p id="code"></p>
+    </div>
+    <script src="randomizer.js"></script>
+</body>
+</html>

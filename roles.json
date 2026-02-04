@@ -1,0 +1,212 @@
+[
+ {
+   "Role": "Alcoholic",
+   "ID": 1599661616,
+   "Alignment": "Outsider",
+   "Counterpart": "Hooker"
+ },
+ {
+   "Role": "Anarchist",
+   "ID": 1602978335,
+   "Alignment": "Mafia",
+   "Counterpart": "Confused Cop"
+ },
+ {
+   "Role": "Bouncer",
+   "ID": 1661823768,
+   "Alignment": "Mafia",
+   "Counterpart": "Security Guard"
+ },
+ {
+   "Role": "Bulletproof",
+   "ID": 5,
+   "Alignment": "Townsfolk",
+   "Counterpart": "Tank"
+ },
+ {
+   "Role": "Candle",
+   "ID": 27,
+   "Alignment": "Outsider",
+   "Counterpart": "Janitor"
+ },
+ {
+   "Role": "Confused Cop",
+   "ID": 6,
+   "Alignment": "Outsider",
+   "Counterpart": "Anarchist"
+ },
+ {
+   "Role": "Contingency Planner",
+   "ID": 1547802152,
+   "Alignment": "Mafia",
+   "Counterpart": "Virgin"
+ },
+ {
+   "Role": "Cop",
+   "ID": 7,
+   "Alignment": "Townsfolk",
+   "Counterpart": "Understudy"
+ },
+ {
+   "Role": "Coroner",
+   "ID": 1550785710,
+   "Alignment": "Townsfolk",
+   "Counterpart": "Tagger"
+ },
+ {
+   "Role": "Delinquent",
+   "ID": 1596417104,
+   "Alignment": "Outsider",
+   "Counterpart": "Impostor"
+ },
+ {
+   "Role": "Doctor",
+   "ID": 12,
+   "Alignment": "Townsfolk",
+   "Counterpart": "Headhunter"
+ },
+ {
+   "Role": "Extrovert",
+   "ID": 1625356264,
+   "Alignment": "Townsfolk",
+   "Counterpart": "Grandpa"
+ },
+ {
+   "Role": "Godfather",
+   "ID": 65,
+   "Alignment": "Mafia",
+   "Counterpart": "Guilty Conscience"
+ },
+ {
+   "Role": "Grandpa",
+   "ID": 66,
+   "Alignment": "Mafia",
+   "Counterpart": "Extrovert"
+ },
+ {
+   "Role": "Guilty Conscience",
+   "ID": 133769420,
+   "Alignment": "Townsfolk",
+   "Counterpart": "Godfather"
+ },
+ {
+   "Role": "Headhunter",
+   "ID": 1610841973,
+   "Alignment": "Mafia",
+   "Counterpart": "Doctor"
+ },
+ {
+   "Role": "Hooker",
+   "ID": 69,
+   "Alignment": "Mafia",
+   "Counterpart": "Alcoholic"
+ },
+ {
+   "Role": "Hunter",
+   "ID": 20,
+   "Alignment": "Townsfolk",
+   "Counterpart": "Poacher"
+ },
+ {
+   "Role": "Impostor",
+   "ID": 1596337363,
+   "Alignment": "Mafia",
+   "Counterpart": "Delinquent"
+ },
+ {
+   "Role": "Janitor",
+   "ID": 72,
+   "Alignment": "Mafia",
+   "Counterpart": "Candle"
+ },
+ {
+   "Role": "Lurker",
+   "ID": 74,
+   "Alignment": "Mafia",
+   "Counterpart": "Seer"
+ },
+ {
+   "Role": "Mafia",
+   "ID": 75,
+   "Alignment": "Mafia",
+   "Counterpart": "+2 Outsiders"
+ },
+ {
+   "Role": "Oracle",
+   "ID": 36,
+   "Alignment": "Townsfolk",
+   "Counterpart": "Strongman"
+ },
+ {
+   "Role": "Phantom",
+   "ID": 16,
+   "Alignment": "Townsfolk",
+   "Counterpart": "Trancer"
+ },
+ {
+   "Role": "Poacher",
+   "ID": 1596416287,
+   "Alignment": "Mafia",
+   "Counterpart": "Hunter"
+ },
+ {
+   "Role": "Polygraph",
+   "ID": 1565630670,
+   "Alignment": "Townsfolk",
+   "Counterpart": "Saboteur"
+ },
+ {
+   "Role": "Saboteur",
+   "ID": 1553863028,
+   "Alignment": "Mafia",
+   "Counterpart": "Polygraph"
+ },
+ {
+   "Role": "Security Guard",
+   "ID": 1661814887,
+   "Alignment": "Townsfolk",
+   "Counterpart": "Bouncer"
+ },
+ {
+   "Role": "Seer",
+   "ID": 13,
+   "Alignment": "Townsfolk",
+   "Counterpart": "Lurker"
+ },
+ {
+   "Role": "Strongman",
+   "ID": 1558930946,
+   "Alignment": "Mafia",
+   "Counterpart": "Oracle"
+ },
+ {
+   "Role": "Tagger",
+   "ID": 87,
+   "Alignment": "Mafia",
+   "Counterpart": "Coroner"
+ },
+ {
+   "Role": "Tank",
+   "ID": 88,
+   "Alignment": "Mafia",
+   "Counterpart": "Bulletproof"
+ },
+ {
+   "Role": "Trancer",
+   "ID": 89,
+   "Alignment": "Mafia",
+   "Counterpart": "Phantom"
+ },
+ {
+   "Role": "Understudy",
+   "ID": 1587533794,
+   "Alignment": "Mafia",
+   "Counterpart": "Cop"
+ },
+ {
+   "Role": "Virgin",
+   "ID": 58,
+   "Alignment": "Townsfolk",
+   "Counterpart": "Contingency Planner"
+ }
+]
